@@ -491,11 +491,11 @@ skills__container {
 }
 
 .skills__html {
-  width: 70%;
+  width: 90%;
 }
 
 .skills__dsa {
-  width: 70%;
+  width: 75%;
 }
 
 .skills__cpp {
@@ -503,20 +503,24 @@ skills__container {
 }
 
 .skills__oops {
-  width: 80%;
+  width: 90%;
 }
 
 .skills__sql {
   width: 80%;
 }
 
-.skills__css {
+.skills__react {
   width: 60%;
 }
 
 .skills__js {
-  width: 40%;
+  width: 60%;
 }
+skills__swift{
+  width: 50%
+}
+  
 .skills__ml {
   width: 60%;
 }

@@ -174,7 +174,7 @@ themeButton.addEventListener("click", () => {
   localStorage.setItem("selected-icon", getCurrentIcon());
 });
 
-// contact me
+// CONTACT ME
 const scriptURL =
   "https://script.google.com/macros/s/AKfycbzG1J4YPNMki3UrvmqqYPRdFlDZJocggvzJ_iLlI5KLNVl0mWRReFYrvG_SECnW7j9v/exec";
 const form = document.forms["google-sheet"];

@@ -176,7 +176,7 @@ themeButton.addEventListener("click", () => {
 
 // contact me
 const scriptURL =
-  "https://script.google.com/macros/s/AKfycbwRv_gHbs7o-hWjmBpo54p9RxrMoILGCxLIzmkjfYwDI0NC5xE2dlhSBmpWZgsBn1TIUA/exec";
+  "https://script.google.com/macros/s/AKfycbzG1J4YPNMki3UrvmqqYPRdFlDZJocggvzJ_iLlI5KLNVl0mWRReFYrvG_SECnW7j9v/exec";
 const form = document.forms["google-sheet"];
 
 form.addEventListener("submit", (e) => {
